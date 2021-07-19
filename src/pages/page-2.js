@@ -1,16 +1,22 @@
 import * as React from "react"
-import { Link } from "gatsby"
 
-import Layout from "../components/layout"
 import Seo from "../components/seo"
+import "../styles/styles.css"
+import Header from "../components/header"
 
 const SecondPage = () => (
-  <Layout>
-    <Seo title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
-  </Layout>
+
+<React.Fragment>
+  <Seo title="Page two" />
+  <Header />
+  <div className="container">
+    <div className="page2-page">
+      <h1>Hi from the second page</h1>
+      <p>Welcome to page 2</p>
+    </div>
+  </div>
+</React.Fragment>
+ 
 )
 
 export default SecondPage
