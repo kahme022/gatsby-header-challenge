@@ -1,8 +1,8 @@
 # gatsby-header-challenge
 
-**Name**: Khalid Ahmed
+**Name:** Khalid Ahmed
 
-**Description**: Use gatsby logo to navigate to homepage, and the rest of the navgation links to navigate to its corresponding pages.
+**Description:** Use gatsby logo to navigate to homepage, and the rest of the navgation links to navigate to its corresponding pages.
 
-[Click here to view site](https://www.google.com)
+[Click here to view site](https://jolly-knuth-d32fd5.netlify.app)
 
