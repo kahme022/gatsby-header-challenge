@@ -12,7 +12,6 @@ const SecondPage = () => (
   <div className="container">
     <div className="page2-page">
       <h1>Hi from the second page</h1>
-      <br />
       <p>Welcome to page 2</p>
     </div>
   </div>

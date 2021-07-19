@@ -1,2 +1,6 @@
 # gatsby-header-challenge
-challenge question for software for love
+
+Name: Khalid Ahmed
+
+Description: Use gatsby logo to navigate to homepage, and the rest of the navgation links to navigate to its corresponding pages.
+
